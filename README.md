@@ -37,5 +37,9 @@ This repository contains a Power BI Template (.pbit) designed to analyze and vis
 - Helps businesses and analysts get insights into orders, sales, and customer patterns.
 - Can be reused with different datasets by mapping fields accordingly.
 
+## Power BI Dashboard Screenshot
+<img width="894" height="502" alt="Screenshot" src="https://github.com/user-attachments/assets/437c81d7-b853-431d-80bf-64388e64375e" />
+
+
 ## Repository Link
 - <a href = "https://github.com/bsyamini/Order-Details-Dashboard-Power-BI"> Repository </a>
