@@ -1,5 +1,7 @@
 # Order-Details-Dashboard-Power-BI
---
+## Project-Objective
+This project provides an interactive Power BI dashboard for analyzing order data. It is built from a .pbit template file, allowing users to connect their own datasets and instantly generate insights.
+
 ## Project Description
 This repository contains a Power BI Template (.pbit) designed to analyze and visualize order details data.The dashboard helps track sales, orders, customer behaviour, and performance metrics in an interactive and user-friendly format.
 
@@ -7,7 +9,7 @@ This repository contains a Power BI Template (.pbit) designed to analyze and vis
 ## Dataset Dashboard
 - <a href = "https://app.powerbi.com/groups/me/reports/fa131fe9-68ac-48e8-bfab-7e2c096045fa/5021be75305ff2d1127b?experience=power-bi"> Dataset </a>
 ## Dataset Screenshot
-- <a href = "https://github.com/bsyamini/Order-Details-Dashboard-Power-BI/blob/main/Screenshot.png"> Dataset </a>
+- <a href = "https://github.com/bsyamini/Order-Details-Dashboard-Power-BI/blob/main/Screenshot.png"> Screenshot </a>
 
 ## File Contents
 - order_details_id
@@ -36,5 +38,4 @@ This repository contains a Power BI Template (.pbit) designed to analyze and vis
 - Can be reused with different datasets by mapping fields accordingly.
 
 ## Repository Link
-👉 After pushing to GitHub, your link will look like:
-https://github.com/<your-username>/<repo-name>
+- <a href = "https://github.com/bsyamini/Order-Details-Dashboard-Power-BI"> Repository </a>
